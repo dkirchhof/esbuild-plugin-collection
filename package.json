@@ -1,0 +1,10 @@
+{
+  "name": "esbuild-plugin-collection",
+  "version": "1.0.0",
+  "main": "lib/index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "esbuild": "^0.17.18"
+  }
+}
